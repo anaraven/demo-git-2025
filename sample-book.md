@@ -1,14 +1,4 @@
-# The Guardians of the Hidden Forest
-
-# Table of Contents
-
-- [Chapter 1: The Hidden Forest](#chapter-1-the-hidden-forest)
-- [Chapter 2: The Lost Key to the Magic Realm](#chapter-2-the-lost-key-to-the-magic-realm)
-- [Chapter 3: The Heart of the Hidden Forest](#chapter-3-the-heart-of-the-hidden-forest)
-- [Chapter 4: The Battle of the Firefly Knights](#chapter-4-the-battle-of-the-firefly-knights)
-- [Chapter 5: The Dawn of a New Beginning](#chapter-5-the-dawn-of-a-new-beginning)
-
----
+# Frankenstein
 
 ## Chapter 1: The Hidden Forest
 
@@ -18,6 +8,7 @@ and she had heard stories about the "Hidden Forest," a magical place that no one
 Legends said the forest was full of enchanted creatures and secrets, but no one had ever returned from
 it.
 
+One sunny morning, Lila decided it was time to explore. "Are you ready for an adventure?" she asked
 One sunny morning, Lila decided it was time to explore. "Are you ready for an adventure?" she asked
 Milo and Tessa.
 
