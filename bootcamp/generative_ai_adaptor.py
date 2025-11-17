@@ -1,3 +1,4 @@
+import abc
 import os
 
 try:
@@ -6,19 +7,6 @@ try:
 except Exception:
     pass
 
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-if not OPENAI_API_KEY:
-    print('⚠️ Set OPENAI_API_KEY in your environment to run live calls.')
-else:
-    print('✅ OPENAI_API_KEY is set.')
-
-GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
-if not GOOGLE_API_KEY:
-    print('⚠️ Set GOOGLE_API_KEY in your environment to run live calls.')
-else:
-    print('✅ GOOGLE_API_KEY is set.')
-
-import abc
 
 class GenerativeAIClient(abc.ABC):
 
@@ -26,25 +14,36 @@ class GenerativeAIClient(abc.ABC):
   def generate(self, prompt: str, **kwargs) -> str:
       ...
 
+from dataclasses import dataclass
 from openai import OpenAI
 
+@dataclass
 class OpenAIClient(GenerativeAIClient):
+  model: str='gpt-4o-mini'
+  temperature: float=0.7
+  max_tokens: int=200
+  retries: int=3
+  backoff: float=0.8
 
-  def generate(self, prompt: str, *, model: str='gpt-4o-mini', temperature: float=0.7, max_tokens: int=200, retries: int=3, backoff: float=0.8) -> str:
-      """Call the chat completion API with basic retries and timing.
-      Returns the model's answer as plain text.
-      """
+  def __post_init__(self):
+
+      OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
       if not OPENAI_API_KEY:
           raise ValueError("OPENAI_API_KEY is not set in the environment")
 
-      client = OpenAI(api_key=OPENAI_API_KEY)
-      response = client.chat.completions.create(
-          model=model,
+      self.client = OpenAI(api_key=OPENAI_API_KEY)
+
+  def generate(self, prompt: str) -> str:
+      """Call the chat completion API with basic retries and timing.
+      Returns the model's answer as plain text.
+      """
+      response = self.client.chat.completions.create(
+          model=self.model,
           messages=[
               {"role": "user", "content": prompt}
           ],
-          temperature=temperature,
-          max_tokens=max_tokens
+          temperature=self.temperature,
+          max_tokens=self.max_tokens
       )
       if response is None:
           raise ValueError("No response from the API")
@@ -68,8 +67,27 @@ from google import genai
 from google.genai.types import GenerateContentConfig
 
 class GoogleGenAIClient(GenerativeAIClient):
+  model: str='gemini-2.5-flash'
+  temperature: float=0.7
+  max_tokens: int=200
+  retries: int=3
+  backoff: float=0.8
 
-  def generate(self, prompt: str, *, model: str='gemini-2.5-flash', temperature: float=0.7, max_tokens: int=200, retries: int=3, backoff: float=0.8) -> str:
+  def __post_init__(self):
+      try:
+          from dotenv import load_dotenv
+          load_dotenv()
+      except Exception:
+          pass
+
+      GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+      if not GOOGLE_API_KEY:
+          raise ValueError("GOOGLE_API_KEY is not set in the environment")
+      self.client = genai.Client(api_key= GOOGLE_API_KEY)
+      self.config=GenerateContentConfig(temperature=self.temperature, max_output_tokens=self.max_tokens)
+
+
+  def generate(self, prompt: str) -> str:
               
       """Call the chat completion API with basic retries and timing.
       Returns the model's answer as plain text.
@@ -78,10 +96,7 @@ class GoogleGenAIClient(GenerativeAIClient):
       if not isinstance(prompt, str):
           raise ValueError("Prompt should be a string")
 
-      client = genai.Client()
-      config=GenerateContentConfig(temperature=temperature, max_output_tokens=max_tokens)
-
-      response = client.models.generate_content(model=model, contents=prompt, config=config)
+      response = self.client.models.generate_content(model=self.model, contents=prompt, config=self.config)
       if response is None:
           raise ValueError("No response from the API")
       
