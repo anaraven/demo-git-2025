@@ -66,20 +66,15 @@ class OpenAIClient(GenerativeAIClient):
 from google import genai
 from google.genai.types import GenerateContentConfig
 
+@dataclass
 class GoogleGenAIClient(GenerativeAIClient):
   model: str='gemini-2.5-flash'
   temperature: float=0.7
-  max_tokens: int=200
+  max_tokens: int=2000
   retries: int=3
   backoff: float=0.8
 
   def __post_init__(self):
-      try:
-          from dotenv import load_dotenv
-          load_dotenv()
-      except Exception:
-          pass
-
       GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
       if not GOOGLE_API_KEY:
           raise ValueError("GOOGLE_API_KEY is not set in the environment")
