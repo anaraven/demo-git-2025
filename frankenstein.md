@@ -1,10 +1,13 @@
-﻿The Project Gutenberg eBook of Frankenstein; Or, The Modern Prometheus
-    
+﻿Frankenstein
+============
+
+The Project Gutenberg eBook of Frankenstein; Or, The Modern Prometheus
+
 This ebook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
 whatsoever. You may copy it, give it away or re-use it under the terms
 of the Project Gutenberg License included with this ebook or online
-at www.gutenberg.org. If you are not located in the United States,
+at <www.gutenberg.org>. If you are not located in the United States,
 you will have to check the laws of the country where you are located
 before using this eBook.
 
@@ -20,15 +23,13 @@ Language: English
 Credits: Judith Boss, Christy Phillips, Lynn Hanninen and David Meltzer. HTML version by Al Haines.
         Further corrections by Menno de Leeuw.
 
-
-*** START OF THE PROJECT GUTENBERG EBOOK FRANKENSTEIN; OR, THE MODERN PROMETHEUS ***
+***START OF THE PROJECT GUTENBERG EBOOK FRANKENSTEIN; OR, THE MODERN PROMETHEUS***
 
 Frankenstein;
 
 or, the Modern Prometheus
 
 by Mary Wollstonecraft (Godwin) Shelley
-
 
  CONTENTS
 
@@ -61,16 +62,11 @@ by Mary Wollstonecraft (Godwin) Shelley
  Chapter 23
  Chapter 24
 
-
-
-
-Letter 1
+## Letter 1
 
 _To Mrs. Saville, England._
 
-
 St. Petersburgh, Dec. 11th, 17—.
-
 
 You will rejoice to hear that no disaster has accompanied the
 commencement of an enterprise which you have regarded with such evil
@@ -126,7 +122,7 @@ day and night, and my familiarity with them increased that regret which
 I had felt, as a child, on learning that my father’s dying injunction
 had forbidden my uncle to allow me to embark in a seafaring life.
 
-These visions faded when I perused, for the first time, those poets
+THESE VISIONS faded when I perused, for the first time, those poets
 whose effusions entranced my soul and lifted it to heaven. I also
 became a poet and for one year lived in a paradise of my own creation;
 I imagined that I also might obtain a niche in the temple where the
@@ -185,15 +181,11 @@ Your affectionate brother,
 
 R. Walton
 
-
-
-
-Letter 2
+## Letter 2
 
 _To Mrs. Saville, England._
 
 Archangel, 28th March, 17—.
-
 
 How slowly the time passes here, encompassed as I am by frost and snow!
 Yet a second step is taken towards my enterprise. I have hired a
@@ -304,21 +296,17 @@ having traversed immense seas, and returned by the most southern cape of
 Africa or America? I dare not expect such success, yet I cannot bear to
 look on the reverse of the picture. Continue for the present to write to
 me by every opportunity: I may receive your letters on some occasions when
-I need them most to support my spirits. I love you very tenderly. 
+I need them most to support my spirits. I love you very tenderly.
 Remember me with affection, should you never hear from me again.
 
 Your affectionate brother,
  Robert Walton
 
-
-
-
-Letter 3
+## Letter 3
 
 _To Mrs. Saville, England._
 
 July 7th, 17—.
-
 
 My dear Sister,
 
@@ -355,11 +343,7 @@ finish. Heaven bless my beloved sister!
 
 R.W.
 
-
-
-
-Letter 4
-
+## Letter 4
 
 _To Mrs. Saville, England._
 
@@ -506,11 +490,7 @@ of my heart.
 I shall continue my journal concerning the stranger at intervals,
 should I have any fresh incidents to record.
 
-
-
-
 August 13th, 17—.
-
 
 My affection for my guest increases every day. He excites at once my
 admiration and my pity to an astonishing degree. How can I see so
@@ -588,11 +568,7 @@ power of judgment, a penetration into the causes of things, unequalled
 for clearness and precision; add to this a facility of expression and a
 voice whose varied intonations are soul-subduing music.
 
-
-
-
 August 19th, 17—.
-
 
 Yesterday the stranger said to me, “You may easily perceive, Captain
 Walton, that I have suffered great and unparalleled misfortunes. I had
@@ -642,11 +618,7 @@ animation, while the lineaments of his face are irradiated by the soul
 within. Strange and harrowing must be his story, frightful the storm which
 embraced the gallant vessel on its course and wrecked it—thus!
 
-
-
-
-Chapter 1
-
+## Chapter 1
 
 I am by birth a Genevese, and my family is one of the most
 distinguished of that republic. My ancestors had been for many years
@@ -808,11 +780,7 @@ familiarly by the name of cousin. No word, no expression could body
 forth the kind of relation in which she stood to me—my more than
 sister, since till death she was to be mine only.
 
-
-
-
-Chapter 2
-
+## Chapter 2
 
 We were brought up together; there was not quite a year difference in
 our ages. I need not say that we were strangers to any species of
@@ -1019,11 +987,7 @@ It was a strong effort of the spirit of good, but it was ineffectual.
 Destiny was too potent, and her immutable laws had decreed my utter and
 terrible destruction.
 
-
-
-
-Chapter 3
-
+## Chapter 3
 
 When I had attained the age of seventeen my parents resolved that I
 should become a student at the university of Ingolstadt. I had
@@ -1120,7 +1084,7 @@ totally unfitted for the company of strangers. Such were my reflections as
 I commenced my journey; but as I proceeded, my spirits and hopes rose. I
 ardently desired the acquisition of knowledge. I had often, when at home,
 thought it hard to remain during my youth cooped up in one place and had
-longed to enter the world and take my station among other human beings. 
+longed to enter the world and take my station among other human beings.
 Now my desires were complied with, and it would, indeed, have been folly to
 repent.
 
@@ -1274,11 +1238,7 @@ books which I had requested, and I took my leave.
 
 Thus ended a day memorable to me; it decided my future destiny.
 
-
-
-
-Chapter 4
-
+## Chapter 4
 
 From this day natural philosophy, and particularly chemistry, in the
 most comprehensive sense of the term, became nearly my sole occupation.
@@ -1510,11 +1470,7 @@ sustained me: my labours would soon end, and I believed that exercise and
 amusement would then drive away incipient disease; and I promised myself
 both of these when my creation should be complete.
 
-
-
-
-Chapter 5
-
+## Chapter 5
 
 It was on a dreary night of November that I beheld the accomplishment
 of my toils. With an anxiety that almost amounted to agony, I
@@ -1596,17 +1552,15 @@ bodily exercise to ease the load that weighed upon my mind. I
 traversed the streets without any clear conception of where I was or
 what I was doing. My heart palpitated in the sickness of fear, and I
 hurried on with irregular steps, not daring to look about me:
- 
+
  Like one who, on a lonely road,
  Doth walk in fear and dread,
  And, having once turned round, walks on,
  And turns no more his head;
  Because he knows a frightful fiend
  Doth close behind him tread.
- 
+
  [Coleridge’s “Ancient Mariner.”]
-
-
 
 Continuing thus, I came at length opposite to the inn at which the various
 diligences and carriages usually stopped. Here I paused, I knew not why;
@@ -1748,11 +1702,7 @@ who are so deserving of my love?”
 to see a letter that has been lying here some days for you; it is from
 your cousin, I believe.”
 
-
-
-
-Chapter 6
-
+## Chapter 6
 
 Clerval then put the following letter into my hands. It was from my
 own Elizabeth:
@@ -1883,10 +1833,7 @@ you, write!
 
 “Elizabeth Lavenza.
 
-
 “Geneva, March 18th, 17—.”
-
-
 
 “Dear, dear Elizabeth!” I exclaimed, when I had read her
 letter: “I will write instantly and relieve them from the anxiety
@@ -2014,11 +1961,7 @@ We returned to our college on a Sunday afternoon: the peasants were
 dancing, and every one we met appeared gay and happy. My own spirits were
 high, and I bounded along with feelings of unbridled joy and hilarity.
 
-
-
-
 Chapter 7
-
 
 On my return, I found the following letter from my father:—
 
@@ -2094,11 +2037,7 @@ with hatred for your enemies.
 
 “Alphonse Frankenstein.
 
-
-
 “Geneva, May 12th, 17—.”
-
-
 
 Clerval, who had watched my countenance as I read this letter, was
 surprised to observe the despair that succeeded the joy I at first
@@ -2383,11 +2322,7 @@ is, as you believe, innocent, rely on the justice of our laws, and the
 activity with which I shall prevent the slightest shadow of
 partiality.”
 
-
-
-
 Chapter 8
-
 
 We passed a few sad hours until eleven o’clock, when the trial was to
 commence. My father and the rest of the family being obliged to attend
@@ -2688,11 +2623,7 @@ Thus spoke my prophetic soul, as, torn by remorse, horror, and despair,
 I beheld those I loved spend vain sorrow upon the graves of William and
 Justine, the first hapless victims to my unhallowed arts.
 
-
-
-
 Chapter 9
-
 
 Nothing is more painful to the human mind than, after the feelings have
 been worked up by a quick succession of events, the dead calmness of
@@ -2897,11 +2828,7 @@ acted as a lullaby to my too keen sensations; when I placed my head
 upon my pillow, sleep crept over me; I felt it as it came and blessed
 the giver of oblivion.
 
-
-
-
 Chapter 10
-
 
 I spent the following day roaming through the valley. I stood beside
 the sources of the Arveiron, which take their rise in a glacier, that
@@ -2974,7 +2901,6 @@ convey to us.
      The path of its departure still is free.
   Man’s yesterday may ne’er be like his morrow;
      Nought may endure but mutability!
-
 
 It was nearly noon when I arrived at the top of the ascent. For some
 time I sat upon the rock that overlooks the sea of ice. A mist covered
@@ -3120,11 +3046,7 @@ heart and depressed spirits. But I consented to listen, and seating
 myself by the fire which my odious companion had lighted, he thus began
 his tale.
 
-
-
-
 Chapter 11
-
 
 “It is with considerable difficulty that I remember the original era of
 my being; all the events of that period appear confused and indistinct.
@@ -3384,11 +3306,7 @@ science of words or letters.
 “The family, after having been thus occupied for a short time,
 extinguished their lights and retired, as I conjectured, to rest.”
 
-
-
-
 Chapter 12
-
 
 “I lay on my straw, but I could not sleep. I thought of the
 occurrences of the day. What chiefly struck me was the gentle manners
@@ -3591,11 +3509,7 @@ unwholesome. My spirits were elevated by the enchanting appearance of
 nature; the past was blotted from my memory, the present was tranquil,
 and the future gilded by bright rays of hope and anticipations of joy.”
 
-
-
-
 Chapter 13
-
 
 “I now hasten to the more moving part of my story. I shall relate
 events that impressed me with feelings which, from what I had been,
@@ -3795,11 +3709,7 @@ feelings of indignation, delight, and wonder, but which all terminated
 in additional love and reverence for my protectors (for so I loved, in
 an innocent, half-painful self-deceit, to call them).”
 
-
-
-
 Chapter 14
-
 
 “Some time elapsed before I learned the history of my friends. It was
 one which could not fail to impress itself deeply on my mind, unfolding
@@ -3979,11 +3889,7 @@ which they were bound, and after her death the woman of the house in
 which they had lived took care that Safie should arrive in safety at
 the cottage of her lover.”
 
-
-
-
 Chapter 15
-
 
 “Such was the history of my beloved cottagers. It impressed me deeply.
 I learned, from the views of social life which it developed, to admire
@@ -3999,7 +3905,7 @@ in the beginning of the month of August of the same year.
 “One night during my accustomed visit to the neighbouring wood where I
 collected my own food and brought home firing for my protectors, I found on
 the ground a leathern portmanteau containing several articles of dress and
-some books. I eagerly seized the prize and returned with it to my hovel. 
+some books. I eagerly seized the prize and returned with it to my hovel.
 Fortunately the books were written in the language, the elements of which I
 had acquired at the cottage; they consisted of _Paradise Lost_, a volume
 of _Plutarch’s Lives_, and the _Sorrows of Werter_. The
@@ -4288,11 +4194,7 @@ I refrained. I saw him on the point of repeating his blow, when,
 overcome by pain and anguish, I quitted the cottage, and in the general
 tumult escaped unperceived to my hovel.”
 
-
-
-
 Chapter 16
-
 
 “Cursed, cursed creator! Why did I live? Why, in that instant, did I
 not extinguish the spark of existence which you had so wantonly
@@ -4602,11 +4504,7 @@ will not associate with me; but one as deformed and horrible as myself
 would not deny herself to me. My companion must be of the same species
 and have the same defects. This being you must create.”
 
-
-
-
 Chapter 17
-
 
 The being finished speaking and fixed his looks upon me in the
 expectation of a reply. But I was bewildered, perplexed, and unable to
@@ -4785,11 +4683,7 @@ myself to my most abhorred task. The prospect of such an occupation
 made every other circumstance of existence pass before me like a dream,
 and that thought only had to me the reality of life.
 
-
-
-
 Chapter 18
-
 
 Day after day, week after week, passed away on my return to Geneva; and
 I could not collect the courage to recommence my work. I feared the
@@ -5066,11 +4960,7 @@ of even in my country.
 At length we saw the numerous steeples of London, St. Paul’s towering
 above all, and the Tower famed in English history.
 
-
-
-
 Chapter 19
-
 
 London was our present point of rest; we determined to remain several
 months in this wonderful and celebrated city. Clerval desired the
@@ -5317,11 +5207,7 @@ hope, which I dared not trust myself to question but which was
 intermixed with obscure forebodings of evil that made my heart sicken
 in my bosom.
 
-
-
-
 Chapter 20
-
 
 I sat one evening in my laboratory; the sun had set, and the moon was just
 rising from the sea; I had not sufficient light for my employment, and I
@@ -5645,11 +5531,7 @@ I must pause here, for it requires all my fortitude to recall the memory of
 the frightful events which I am about to relate, in proper detail, to my
 recollection.
 
-
-
-
 Chapter 21
-
 
 I was soon introduced into the presence of the magistrate, an old
 benevolent man with calm and mild manners. He looked upon me, however,
@@ -6011,11 +5893,7 @@ and the irresistible, disastrous future imparted to me a kind of calm
 forgetfulness, of which the human mind is by its structure peculiarly
 susceptible.
 
-
-
-
 Chapter 22
-
 
 The voyage came to an end. We landed, and proceeded to Paris. I soon
 found that I had overtaxed my strength and that I must repose before I
@@ -6036,7 +5914,7 @@ various arguments to banish my despair. Sometimes he thought that I
 felt deeply the degradation of being obliged to answer a charge of
 murder, and he endeavoured to prove to me the futility of pride.
 
-“Alas! My father,” said I, “how little do you know me. 
+“Alas! My father,” said I, “how little do you know me.
 Human beings, their feelings and passions, would indeed be degraded if such
 a wretch as I felt pride. Justine, poor unhappy Justine, was as innocent
 as I, and she suffered the same charge; she died for it; and I am the cause
@@ -6151,11 +6029,7 @@ shall need no other happiness.
 
 “Elizabeth Lavenza.
 
-
-
 “Geneva, May 18th, 17—”
-
-
 
 This letter revived in my memory what I had before forgotten, the threat of
 the fiend—“_I will be with you on your
@@ -6352,11 +6226,7 @@ hay. The sun sank beneath the horizon as we landed, and as I touched
 the shore I felt those cares and fears revive which soon were to clasp
 me and cling to me for ever.
 
-
-
-
 Chapter 23
-
 
 It was eight o’clock when we landed; we walked for a short time on the
 shore, enjoying the transitory light, and then retired to the inn and
@@ -6600,11 +6470,7 @@ wisdom! Cease; you know not what it is you say.”
 I broke from the house angry and disturbed and retired to meditate on
 some other mode of action.
 
-
-
-
 Chapter 24
-
 
 My present situation was one in which all voluntary thought was
 swallowed up and lost. I was hurried away by fury; revenge alone
@@ -6878,9 +6744,7 @@ steel aright.
 
 Walton, _in continuation._
 
-
 August 26th, 17—.
-
 
 You have read this strange and terrific story, Margaret; and do you not
 feel your blood congeal with horror, like that which even now curdles
@@ -6993,7 +6857,6 @@ My beloved Sister,
 
 September 2d.
 
-
 I write to you, encompassed by peril and ignorant whether I am ever
 doomed to see again dear England and the dearer friends that inhabit
 it. I am surrounded by mountains of ice which admit of no escape and
@@ -7024,7 +6887,6 @@ expectation delayed fills them with fear, and I almost dread a mutiny
 caused by this despair.
 
 September 5th.
-
 
 A scene has just passed of such uncommon interest that, although it is
 highly probable that these papers may never reach you, yet I cannot
@@ -7102,14 +6964,12 @@ willingly continue to endure their present hardships.
 
 September 7th.
 
-
 The die is cast; I have consented to return if we are not destroyed.
 Thus are my hopes blasted by cowardice and indecision; I come back
 ignorant and disappointed. It requires more philosophy than I possess
 to bear this injustice with patience.
 
 September 12th.
-
 
 It is past; I am returning to England. I have lost my hopes of utility
 and glory; I have lost my friend. But I will endeavour to detail these
@@ -7381,13 +7241,7 @@ He sprang from the cabin-window as he said this, upon the ice raft
 which lay close to the vessel. He was soon borne away by the waves and
 lost in darkness and distance.
 
-
-
-
-*** END OF THE PROJECT GUTENBERG EBOOK FRANKENSTEIN; OR, THE MODERN PROMETHEUS ***
-
-
-    
+***END OF THE PROJECT GUTENBERG EBOOK FRANKENSTEIN; OR, THE MODERN PROMETHEUS***
 
 Updated editions will replace the previous one—the old editions will
 be renamed.
@@ -7411,7 +7265,6 @@ do practically ANYTHING in the United States with eBooks not protected
 by U.S. copyright law. Redistribution is subject to the trademark
 license, especially commercial redistribution.
 
-
 START: FULL LICENSE
 
 THE FULL PROJECT GUTENBERG LICENSE
@@ -7423,7 +7276,7 @@ distribution of electronic works, by using or distributing this work
 (or any other work associated in any way with the phrase “Project
 Gutenberg”), you agree to comply with all the terms of the Full
 Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
+<www.gutenberg.org/license>.
 
 Section 1. General Terms of Use and Redistributing Project Gutenberg™
 electronic works
@@ -7528,7 +7381,7 @@ any word processing or hypertext form. However, if you provide access
 to or distribute copies of a Project Gutenberg™ work in a format
 other than “Plain Vanilla ASCII” or other format used in the official
 version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
+(<www.gutenberg.org>), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
 of obtaining a copy upon request, of the work in its original “Plain
 Vanilla ASCII” or other form. Any alternate format must include the
@@ -7661,7 +7514,7 @@ Gutenberg Literary Archive Foundation was created to provide a secure
 and permanent future for Project Gutenberg™ and future
 generations. To learn more about the Project Gutenberg Literary
 Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+Sections 3 and 4 and the Foundation information page at <www.gutenberg.org>.
 
 Section 3. Information about the Project Gutenberg Literary Archive Foundation
 
@@ -7676,7 +7529,7 @@ U.S. federal laws and your state’s laws.
 The Foundation’s business office is located at 809 North 1500 West,
 Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
 to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact
+and official page at <www.gutenberg.org/contact>
 
 Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
@@ -7696,7 +7549,7 @@ considerable effort, much paperwork and many fees to meet and keep up
 with these requirements. We do not solicit donations in locations
 where we have not received written confirmation of compliance. To SEND
 DONATIONS or determine the status of compliance for any particular state
-visit www.gutenberg.org/donate.
+visit <www.gutenberg.org/donate>.
 
 While we cannot and do not solicit contributions from states where we
 have not met the solicitation requirements, we know of no prohibition
@@ -7710,7 +7563,7 @@ outside the United States. U.S. laws alone swamp our small staff.
 Please check the Project Gutenberg web pages for current donation
 methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
+donate, please visit: <www.gutenberg.org/donate>.
 
 Section 5. General Information About Project Gutenberg™ electronic works
 
@@ -7727,11 +7580,9 @@ necessarily keep eBooks in compliance with any particular paper
 edition.
 
 Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
+facility: <www.gutenberg.org>.
 
 This website includes information about Project Gutenberg™,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-
-
