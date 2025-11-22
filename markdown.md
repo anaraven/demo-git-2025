@@ -1,25 +1,12 @@
 # My Sample Markdown File
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Lists](#lists)
-   - [Unordered Lists](#unordered-lists)
-   - [Ordered Lists](#ordered-lists)
-3. [Code Examples](#code-examples)
-   - [JavaScript](#javascript)
-   - [Python](#python)
-4. [Images](#images)
-5. [Links](#links)
-6. [Blockquotes](#blockquotes)
-7. [Tables](#tables)
-8. [Conclusion](#conclusion)
-
 ## Introduction
 
 Welcome to my sample markdown file! This document will cover the basic syntax and features of markdown, including how to create lists, code blocks, insert images, add links, and more.
 
 Markdown is a lightweight markup language that allows you to format plain text. It is often used in readme files, documentation, and even for writing blogs.
+
+This is important.
 
 ## Lists
 
