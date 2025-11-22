@@ -12,16 +12,6 @@ This is important.
 
 Markdown supports both unordered and ordered lists.
 
-### Unordered Lists
-
-An unordered list is created using dashes, plus signs, or asterisks.
-
-- Item 1
-- Item 2
-  - Sub-item 1
-  - Sub-item 2
-- Item 3
-
 ### Ordered Lists
 
 An ordered list is created by numbering the items.
@@ -31,6 +21,16 @@ An ordered list is created by numbering the items.
    1. Nested item 1
    2. Nested item 2
 3. Third item
+
+### Unordered Lists
+
+An unordered list is created using dashes, plus signs, or asterisks.
+
+- Item 1
+- Item 2
+  - Sub-item 1
+  - Sub-item 2
+- Item 3
 
 ## Code Examples
 
